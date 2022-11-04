@@ -52,4 +52,4 @@ void Adivinar_ASCII (char simbolo)
 		printf("Te ha costado %d intentos\n", intentos);
 	}
 	printf("El valor correspondiente de [ %c ]  en la tabla ASCII es %d o 0x%x\n", simbolo, ASCII, ASCII);
-}//comentario de prueba	
+}
